@@ -1,0 +1,23 @@
+# you'll need to import matplotlib.pyplot as plt
+# Matplotlib Style Created or Modified By: Ccellinist
+# colors
+figure.facecolor = (0.12, 0.11, 0.13)
+axes.titlecolor = white
+axes.facecolor = (0.15, 0.14, 0.16)
+axes.labelcolor = white
+axes.edgecolor = white
+legend.labelcolor = white
+xtick.color = white
+ytick.color = white
+grid.color = white
+# sizes
+figure.figsize = [9, 4]
+axes.titlepad = 25
+axes.titlesize = 30
+axes.labelsize = 18
+xtick.labelsize = 14
+font.size = 18
+# grid
+axes.grid = True
+grid.alpha = 0.1
+# You only have to paste this only once in your project before any graph
